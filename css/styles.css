@@ -6,7 +6,7 @@
 }
 
 :root {
-    --main-color: #54B689;
+    --main-color: #56e6fc;
     --main-text-color: #FFF;
     --border-color: #999;
     --bio-bg-color: #1E2A3A;
@@ -85,7 +85,7 @@
 
 #email-container{
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
 #email-container ion-icon,
